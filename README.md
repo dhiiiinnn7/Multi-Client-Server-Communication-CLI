@@ -35,7 +35,7 @@ This Java project is a basic chat application that allows clients connected to a
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/dhiiiinnn7/Multi-Client-Server-Communication-CLI
+git clone https://github.com/dhiiiinnn7/Multi-Client-Server-Communication-CLI.git
 ```
 
 ### Navigate to the Project Directory
