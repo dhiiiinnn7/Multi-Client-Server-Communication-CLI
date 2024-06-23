@@ -20,11 +20,11 @@ Copy code - git clone https://github.com/dhiiiinnn7/Multi-Client-Server-Communic
 
 Navigate to the project directory:
 
-Copy code - cd London Underground - Algorithm.py
+Copy code - cd Multi-Client-Server-Communication-CLI JAVA
 
-Install the required packages:
+Compile the Java files:
 
-Copy code - pip install pandas matplotlib colorama
+Copy code - javac *.java
 
 Usage
 
