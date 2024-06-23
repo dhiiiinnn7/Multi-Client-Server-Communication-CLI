@@ -16,7 +16,7 @@ Installation
 
 Clone the repository:
 
-Copy code - git clone https://github.com/dhiiiinnn7/DESIGNING-DEVELOPING-AND-TESTING-SOLUTIONS-FOR-THE-LONDON-UNDERGROUND-SYSTEM.git
+Copy code - git clone https://github.com/dhiiiinnn7/Multi-Client-Server-Communication-CLI
 
 Navigate to the project directory:
 
