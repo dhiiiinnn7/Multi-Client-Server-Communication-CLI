@@ -14,8 +14,30 @@ This Java project is a basic chat application that allows clients connected to a
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/dhiiiinnn7/Multi-Client-Server-Communication-CLI`````
-
-### Clone the Repository
-```sh
 git clone https://github.com/dhiiiinnn7/Multi-Client-Server-Communication-CLI
+```
+
+### Navigate to the Project Directory
+```sh
+cd Multi-Client-Server-Communication-CLI
+```
+
+### Compile the Java Files
+```sh
+javac *.java
+```
+
+## Usage
+
+### Start the Server
+```sh
+java Server
+```
+
+### Start the Client
+```sh
+java Client
+```
+
+Follow the prompts to enter your username and start chatting.
+
