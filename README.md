@@ -22,6 +22,7 @@ This Java project is a basic chat application that allows clients connected to a
   - [Running Tests](#running-tests)
 - [Fault Tolerance](#fault-tolerance)
 - [Limitations](#limitations)
+- [License](#license)
 
 
 ## Features
@@ -115,3 +116,6 @@ The application handles various fault scenarios such as:
 
 - The disconnection process for removed users is not immediate; users must send messages twice to be fully disconnected.
 - Improvements needed in the user removal process to ensure seamless disconnection.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
